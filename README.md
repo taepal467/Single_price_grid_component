@@ -31,7 +31,7 @@ Users should be able to:
 
 ## My process
 
-To complete this project, I first started by using CodePly.com to figure out the layout for the grid component. I played around with the <div>, col and rows. Then I went on to styling the project. I styled one box at a time, starting with the top box and so forth. After The design looked close to the final design, I went ahead and started figuring out the responsivesness for smaller screens. 
+To complete this project, I first started by using CodePly.com to figure out the layout for the grid component. I played around with the divs, cols and rows. Then I went on to styling the project. I styled one box at a time, starting with the top box and so forth. After The design looked close to the final design, I went ahead and started figuring out the responsivesness for smaller screens. 
 
 ### Built with
 
